@@ -1,0 +1,16 @@
+﻿  Assembling test.asm...
+test.asm(92): warning A6004: procedure argument or local not referenced : hwnd
+test.asm(92): warning A6004: procedure argument or local not referenced : hDc
+test.asm(98): warning A6004: procedure argument or local not referenced : hWnd
+test.asm(98): warning A6004: procedure argument or local not referenced : hDc
+test.asm(104): warning A6004: procedure argument or local not referenced : hWnd
+test.asm(104): warning A6004: procedure argument or local not referenced : hDc
+test.asm(186): warning A6004: procedure argument or local not referenced : @hBmpMark
+test.asm(186): warning A6004: procedure argument or local not referenced : @posX
+test.asm(186): warning A6004: procedure argument or local not referenced : @posY
+test.asm(217): warning A6004: procedure argument or local not referenced : @posX
+test.asm(217): warning A6004: procedure argument or local not referenced : @posY
+test.asm(315): warning A6004: procedure argument or local not referenced : @hDc
+test.asm(315): warning A6004: procedure argument or local not referenced : @stPs
+test.asm(315): warning A6004: procedure argument or local not referenced : @hBitMap
+  game.vcxproj -> C:\Users\86150\Desktop\asm\new\game\Debug\game.exe
